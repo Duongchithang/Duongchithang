@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duong Chi Thang</h1>
 <h3 align="center">I'm a web developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duongchithang" alt="duongchithang" /></a> </p>
-
 - 🌱 I’m currently learning **asp.net core(C#) version 6-7**
 
 - 💬 Ask me about **Javascript, typescript, react, express, asp.net**
