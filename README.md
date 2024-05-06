@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Chi Thang</h1>
-<h3 align="center">I'm a web developer from Vietnam</h3>
+<h3 align="center">I'm a web developer</h3>
 <img width="100%" style="text-align: center" alt="" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
 - 🌱 I’m currently learning **asp.net core(C#) version 6-7**
